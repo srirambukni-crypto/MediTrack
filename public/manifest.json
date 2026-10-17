@@ -1,0 +1,17 @@
+{
+  "name": "MediTrack - Medicine Reminder & Adherence Tracker",
+  "short_name": "MediTrack",
+  "description": "Patient-first medication reminder and 7-day adherence tracking app",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f8fafc",
+  "theme_color": "#0f766e",
+  "icons": [
+    {
+      "src": "./favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}

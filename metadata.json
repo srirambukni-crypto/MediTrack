@@ -1,0 +1,6 @@
+{
+  "name": "MediTrack - Medicine Reminder & Adherence Tracker",
+  "description": "Smart medication schedule, dose reminders with sound chime, 7-day adherence visual rings, and family cabinet tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
